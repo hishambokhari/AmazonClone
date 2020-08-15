@@ -1,12 +1,13 @@
 import React from 'react'
+import './Home.css';
 
 function Home() {
   return (
     <div className="home">
-      <img src="https://m.media-amazon.com/images/G/01/digital/video/sonata/Superhero_UK_Acquisition_FT_Apr_20/f4b165f5-678a-48bb-a049-11e7ddc2168d._UR3000,600_SX1500_FMjpg_.jpg" alt=""/>
+      <img className="home__image"src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB" alt=""/>
     </div>
   )
 }
 
-export default Home
+export default Home;
 
