@@ -13,53 +13,53 @@ function Home() {
       {/* Product id, title, price, rating, image */}
       <div className="home__row">
         <Product 
-          id={12321341}
-          title="The lean Startup: How constant Innovation Creates Radically Successful Businesses Paperback"
-          price={11.96}
+          id={12365341}
+          title="DELL SE2419HR Full HD 24 inch LED MONITOR - Black"
+          price={119.00}
           rating={5}
-          image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
+          image="https://brain-images-ssl.cdn.dixons.com/0/7/10199870/u_10199870.jpg"
         />
         <Product 
-          id={12321341}
-          title="The lean Startup: How constant Innovation Creates Radically Successful Businesses Paperback"
-          price={11.96}
-          rating={5}
-          image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
+          id={12873258}
+          title="JBL Tune 600 BTNC On-Ear Wireless Bluetooth Noise Canceling Headphones (Blue)"
+          price={67.99}
+          rating={4}
+          image="https://brain-images-ssl.cdn.dixons.com/3/3/10200933/u_10200933.jpg"
         />
       </div>
       
       {/* Product */}
       <div className="home__row">
         <Product 
-          id={12321341}
-          title="The lean Startup: How constant Innovation Creates Radically Successful Businesses Paperback"
-          price={11.96}
+          id={11111111}
+          title="Nike Men's Free Rn 2018 Running Shoes"
+          price={82.99}
           rating={5}
-          image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
+          image="https://www.lacrossemonkey.com/media/catalog/product/cache/67e73c3e16ead9e1b9befb018a874cfb/n/i/nike-footwear-mens-free-rn-942836-001.jpg"
         />
         <Product 
-          id={12321341}
-          title="The lean Startup: How constant Innovation Creates Radically Successful Businesses Paperback"
-          price={11.96}
+          id={1222222}
+          title="Optimum Nutrition Gold Standard 100% Whey Powder Chocolate 2273g"
+          price={49.99}
           rating={5}
-          image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
+          image="https://images.hollandandbarrettimages.co.uk/productimages/HB/724/099183_A.jpg"
         />
         <Product 
-          id={12321341}
-          title="The lean Startup: How constant Innovation Creates Radically Successful Businesses Paperback"
-          price={11.96}
-          rating={5}
-          image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
+          id={1222341}
+          title="SONY PlayStation 4 - 500 GB"
+          price={249.00}
+          rating={2}
+          image="https://brain-images-ssl.cdn.dixons.com/4/6/10153364/u_10153364.jpg"
         />
       </div>
 
       <div className="home__row">
         <Product 
-          id={12321341}
-          title="The lean Startup: How constant Innovation Creates Radically Successful Businesses Paperback"
-          price={11.96}
-          rating={5}
-          image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
+          id={55321341}
+          title="Echo Plus (2nd Gen), Charcoal Fabric + Philips Hue White bulb E27"
+          price={99.99}
+          rating={3}
+          image="https://i.ebayimg.com/images/g/yVUAAOSwEuBfHUKe/s-l640.jpg"
         />
         
       </div>
