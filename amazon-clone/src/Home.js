@@ -56,10 +56,10 @@ function Home() {
       <div className="home__row">
         <Product 
           id={55321341}
-          title="Echo Plus (2nd Gen), Charcoal Fabric + Philips Hue White bulb E27"
-          price={99.99}
+          title="Low Tokyo Bed"
+          price={389.00}
           rating={3}
-          image="https://i.ebayimg.com/images/g/yVUAAOSwEuBfHUKe/s-l640.jpg"
+          image="http://www.getlaidbeds.co.uk//image/cache/data/Bed Products/2019_08_ Bed Products Redesign/Low Tokyo Bed/Low-Tokyo-Bed-Main-Normal-Res-900x675.jpg"
         />
         
       </div>
