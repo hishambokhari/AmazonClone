@@ -1,5 +1,12 @@
 export const initialState = {
-  basket: [],
+  basket: [{
+    id:"32546789",
+    title: "New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) ",
+    price: 598.99,
+    rating: 4,
+    image: "https://brain-images-ssl.cdn.dixons.com/7/3/10206137/u_10206137.jpg"
+  },
+],
   user: null,
 };
 
@@ -12,11 +19,10 @@ const reducer = (state, action) => {
         ...state,
         basket: [...state.basket, action.item],
       };
-      break;
     case 'REMOVE_FROM_BASKET':
       // Logic from removing from basket
       return {state};
-      break;  
+      
     default:
       return state;  
   }
