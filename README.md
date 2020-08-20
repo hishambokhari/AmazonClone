@@ -26,6 +26,9 @@ Tech Stack: Javascript, React, CSS, HTML, Firebase, React Router, React Context 
 ### App Showcase
 
 <img src="/images/amazon1.png"/>
+<br>
 <img src="/images/amazon2.png"/>
+<br>
 <img src="/images/amazon3.png"/>
+<br>
 <img src="/images/amazon4.png"/>
